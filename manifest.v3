@@ -10,5 +10,5 @@
   <null name="requires"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
-  <value name="target_runtime_version">15.0</value>
+  <value name="target_server_version">15.0</value>
 </Values>
